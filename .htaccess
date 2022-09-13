@@ -1,3 +1,0 @@
-Order deny,allow
-Deny from 192.168.12.138
-Allow from all
