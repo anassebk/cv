@@ -1,3 +1,4 @@
 Order Allow,Deny
+Allow from All
 Deny from 105.71.146.58
-Allow from all
+
