@@ -1,0 +1,4 @@
+Block IP Address
+Order deny,allow
+Allow from all
+Deny from 192.168.12.138
